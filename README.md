@@ -1,7 +1,12 @@
-Interested in the development of generalized learning mechanisms in artificial intelligence.
+## Samuel Schmidgall
+<a href="https://scholar.google.com/citations?user=bQDooZEAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.linkedin.com/in/samuel-schmidgall-288632162/">LinkedIn</a> / <a href="https://twitter.com/SRSchmidgall">Twitter</a> 
 
-As to how such a mechanism could be obtained, I am not quite sure, however the emerging complexity arising from simpler (random?) processes seems like an approach I am interested in. I think at some point human algorithmic design breaks down, which seems to be something the research community often forgets. Of course there is a need for human design on some levels, however this inclusion of bias often reduces the flexibility of learning and design (e.g. fully-connected, ADAM, ReLU, etc). Can we design learning mechanisms such that both (meta-)learning and (meta-)architecural design emerge out the learning agent's own will/evolution? I think so.
+### Interests
 
+### Work Experience
+* **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
+* **May 2023 - Sept 2023**: Research Affiliate @<a href="https://www.ucsc.edu/">UCSC</a> @<a href="https://ncg.ucsc.edu/">NCG</a>
+* **Feb 2023 - Present**: Research Assistant @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://caat.jhsph.edu/">CAAT</a>
+* **May 2019 - Present**: Computer Scientist @<a href="https://www.nrl.navy.mil/">NRL</a>
 
-<a href="https://scholar.google.com/citations?user=bQDooZEAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.researchgate.net/profile/Samuel-Schmidgall">ResearchGate</a>
 
