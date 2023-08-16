@@ -2,6 +2,10 @@
 <a href="https://scholar.google.com/citations?user=bQDooZEAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.linkedin.com/in/samuel-schmidgall-288632162/">LinkedIn</a> / <a href="https://twitter.com/SRSchmidgall">Twitter</a> 
 
 ### Interests
+* 🦑 Deep Reinforcement Learning for Robotics! 
+* 🩻 Surgical Robotics 
+* 📷 Vision-based robotic manipulation
+* ⚕️ Medical language models
 
 ### Work Experience
 * **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
@@ -11,4 +15,6 @@
 * **Aug 2018 - May 2019 & Jan 2020 - Apr 2020**: Research Assistant @<a href="https://www.gmu.edu/">GMU</a> @<a href="https://megl.science.gmu.edu/">MEGL</a>
 * **Jun 2018 - Feb 2019**: Data Science Intern @<a href="https://www.gartner.com/">Gartner</a>
 * **Mar 2017 - May 2018**: Python Developer @AsymmetriQ
+
+### Publications
 
