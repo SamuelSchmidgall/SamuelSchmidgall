@@ -3,8 +3,8 @@
 
 ### Interests
 * 🦑 Deep reinforcement learning for robotics
-* 🩻 Surgical robots 
 * 📷 Vision-based robotic manipulation
+* 🩻 Surgical robots 
 * ⚕️ Medical language models
 
 ### Work Experience
