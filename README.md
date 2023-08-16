@@ -2,8 +2,8 @@
 <a href="https://scholar.google.com/citations?user=bQDooZEAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.linkedin.com/in/samuel-schmidgall-288632162/">LinkedIn</a> / <a href="https://twitter.com/SRSchmidgall">Twitter</a> 
 
 ### Interests
-* 🦑 Deep Reinforcement Learning for Robotics! 
-* 🩻 Surgical Robotics 
+* 🦑 Deep reinforcement learning for robotics
+* 🩻 Surgical robots 
 * 📷 Vision-based robotic manipulation
 * ⚕️ Medical language models
 
