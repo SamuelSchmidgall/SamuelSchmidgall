@@ -16,5 +16,3 @@
 * **Jun 2018 - Feb 2019**: Data Science Intern @<a href="https://www.gartner.com/">Gartner</a>
 * **Mar 2017 - May 2018**: Python Developer @AsymmetriQ
 
-### Publications
-
