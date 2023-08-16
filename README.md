@@ -4,8 +4,10 @@
 ### Interests
 * 🦑 Deep reinforcement learning for robotics
 * 📷 Vision-based robotic manipulation
-* 🩻 Surgical robots 
+* 🩻 Surgical robotic automation 
 * ⚕️ Medical language models
+* 🧗🏼‍♂️ 3D image reconstruction 
+* 🧠 Learning in brain organoids
 
 ### Work Experience
 * **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
