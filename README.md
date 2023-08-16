@@ -3,14 +3,14 @@
 
 ---------------
 ### Interests & Active Research Areas
-#### _Robotics & Reinforcement Learning_
+#### _Robotics_
 * 🦑 Deep reinforcement learning for robotics
 * 📷 Vision-based robotic manipulation
 * 🩻 Surgical robotic automation
 #### _Machine Learning & Computer Vision_
 * ⚕️ Medical language models
 * 🧗🏼‍♂️ 3D image reconstruction
-#### _Biology & CompNeuro_
+#### _Biology & Computational Neuroscience_
 * 🧠 Learning in brain organoids
 * ⚡ Neuromorphic computing & spiking neural networks
 * 🚂 Meta-learning with models of synaptic plasticity
