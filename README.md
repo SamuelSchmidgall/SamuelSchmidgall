@@ -2,7 +2,7 @@
 <a href="https://scholar.google.com/citations?user=bQDooZEAAAAJ&hl=en">Google Scholar</a> / <a href="https://www.linkedin.com/in/samuel-schmidgall-288632162/">LinkedIn</a> / <a href="https://twitter.com/SRSchmidgall">Twitter</a> 
 
 ---------------
-### Interests & Active Research Areas
+### <ins>Interests & Active Research Areas</ins>
 #### _Robotics_
 * 🦑 Deep reinforcement learning for robotics
 * 📷 Vision-based robotic manipulation
