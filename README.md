@@ -16,7 +16,7 @@
 * 🚂 Meta-learning with models of synaptic plasticity
 ---------------
 
-### Work Experience
+### <ins>Work Experience</ins>
 * **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
 * **May 2023 - Sept 2023**: Research Affiliate @<a href="https://www.ucsc.edu/">UCSC</a> @<a href="https://ncg.ucsc.edu/">NCG</a>
 * **Feb 2023 - Present**: Research Assistant @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://caat.jhsph.edu/">CAAT</a>
