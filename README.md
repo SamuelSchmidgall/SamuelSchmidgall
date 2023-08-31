@@ -6,7 +6,7 @@
 #### _Robotics_
 * 🦑 Deep reinforcement learning for robotics
 * 📷 Vision-based robotic manipulation
-* 🩻 Surgical robotic automation
+* 🧬 Surgical robotic automation
 #### _Machine Learning & Computer Vision_
 * ⚕️ Medical language models
 * 🧗🏼‍♂️ 3D image reconstruction
