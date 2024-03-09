@@ -3,12 +3,19 @@
 
 ---------------
 ### <ins>Interests & Active Research Areas</ins>
+#### <ins>Primary Research Areas</ins>
+
+#### _Robotics_
+* 🧬 Surgical robotic automation
+* 🦾 Deep imitation learning
+* 📷 Vision-based robotic manipulation
+#### _Machine Learning_
+* ⚕️ Medical language models
+
+#### <ins>Secondary Research Areas</ins>
 #### _Robotics_
 * 🦑 Deep reinforcement learning for robotics
-* 📷 Vision-based robotic manipulation
-* 🧬 Surgical robotic automation
-#### _Machine Learning & Computer Vision_
-* ⚕️ Medical language models
+#### _Computer Vision_
 * 🧗🏼‍♂️ 3D image reconstruction
 #### _Biology & Computational Neuroscience_
 * 🧠 Learning in brain organoids
