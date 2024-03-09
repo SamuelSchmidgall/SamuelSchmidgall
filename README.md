@@ -19,7 +19,7 @@
 ---------------
 
 ### <ins>Work Experience</ins>
-* **Apr 2024 - Present**: Research Intern @<a href="https://med.stanford.edu/">Stanford, School of Medicine</a>
+* **Apr 2024 - Present**: Research Intern @<a href="https://med.stanford.edu/">Stanford</a> @<a href="https://www.hiesingerlab.com/">Hiesinger Lab</a>
 * **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
 * **May 2019 - Apr 2024**: Computer Scientist @<a href="https://www.nrl.navy.mil/">NRL Space Robotics Lab</a>
 * **Feb 2023 - Nov 2023**: Research Assistant @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://caat.jhsph.edu/">CAAT</a>
