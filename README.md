@@ -6,7 +6,7 @@
 #### <ins>Primary Research Areas</ins>
 
 #### _Robotics_
-* 🧬 Surgical robotic automation
+* 🧬 Autonomous surgery
 * 🦾 Deep imitation learning
 * 📷 Vision-based robotic manipulation
 * 🦑 Deep reinforcement learning for robotics
