@@ -5,13 +5,13 @@
 ### <ins>Interests & Active Research Areas</ins>
 #### <ins>Primary Research Areas</ins>
 
+#### _Medical AI_
+* ⚕️ Medical language models
 #### _Robotics_
 * 🧬 Autonomous surgery
 * 🦾 Deep imitation learning
 * 📷 Vision-based robotic manipulation
 * 🦑 Deep reinforcement learning for robotics
-#### _Machine Learning_
-* ⚕️ Medical language models
 #### _Biology & Computational Neuroscience_
 * 🧠 Learning in brain organoids
 * ⚡ Neuromorphic computing & spiking neural networks
