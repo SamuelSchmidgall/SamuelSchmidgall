@@ -5,7 +5,8 @@
 ### <ins>Interests & Active Research Areas</ins>
 #### <ins>Primary Research Areas</ins>
 
-#### _Medical AI_
+#### _NLP_
+* **Language agents**
 * ⚕️ Medical language models
 #### _Robotics_
 * 🧬 Autonomous surgery
