@@ -6,22 +6,18 @@
 #### <ins>Primary Research Areas</ins>
 
 #### _NLP_
-* **Language agents**
+* 🚂 Autonomous language agents
 * ⚕️ Medical language models
 #### _Robotics_
 * 🧬 Autonomous surgery
 * 🦾 Deep imitation learning
-* 📷 Vision-based robotic manipulation
 * 🦑 Deep reinforcement learning for robotics
-#### _Biology & Computational Neuroscience_
-* 🧠 Learning in brain organoids
-* ⚡ Neuromorphic computing & spiking neural networks
-* 🚂 Meta-learning with models of synaptic plasticity
 ---------------
 
 ### <ins>Work Experience</ins>
-* **Apr 2024 - Present**: Research Intern @<a href="https://med.stanford.edu/">Stanford</a> @<a href="https://www.hiesingerlab.com/">Hiesinger Lab</a>
+* **Sept 2024 - Present**: Research Scientist (Intern) @<a href="https://www.amd.com/en.html">AMD</a>
 * **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
+* **Apr 2024 - Aug 2024**: Research Intern @<a href="https://med.stanford.edu/">Stanford</a> @<a href="https://www.hiesingerlab.com/">Hiesinger Lab</a>
 * **May 2019 - Apr 2024**: Computer Scientist @<a href="https://www.nrl.navy.mil/">NRL Space Robotics Lab</a>
 * **Feb 2023 - Nov 2023**: Research Assistant @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://caat.jhsph.edu/">CAAT</a>
 * **May 2023 - Sept 2023**: Research Affiliate @<a href="https://www.ucsc.edu/">UCSC</a> @<a href="https://ncg.ucsc.edu/">NCG</a>
