@@ -15,5 +15,4 @@
 * **Sept 2024 - Dec 2024**: Research Scientist (Intern) @<a href="https://www.amd.com/en.html">AMD</a>
 * **Apr 2024 - Aug 2024**: Research Intern @<a href="https://med.stanford.edu/">Stanford</a>
 * **May 2023 - Present**: ECE PhD, NSF GRFP Fellow @<a href="https://www.jhu.edu/">JHU</a> @<a href="https://aiem.jhu.edu">AIEM</a>
-* **May 2021 - Apr 2023**: Computer Scientist @<a href="https://www.nrl.navy.mil/">NRL Space Robotics Lab</a>
 
